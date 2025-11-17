@@ -1,0 +1,26 @@
+body {
+    background-color: #F4D04E;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+    padding: 24px;
+}
+
+.texthelt {
+    font-family: Figtree Extra Bold;
+}
+
+.hmh {
+    display: flex;
+    flex-direction: row
+}
